@@ -2,12 +2,12 @@
 
 .react-code-input-container {
   position: relative;
+  font-family: 'Fira Sans', sans-serif !important;
 }
 
 .react-code-input > input {
   border: solid 1px #a8adb7;
   border-right: none;
-  font-family: 'Lato';
   font-size: 20px;
   color: #525461;
   text-align: center;
